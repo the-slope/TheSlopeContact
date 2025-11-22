@@ -1,15 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Sha;Sanjay;;;
-FN:Sanjay Sha
+N:TheSlope;Company;;;
 ORG:TheSlope
-TITLE:Owner
-TEL;TYPE=CELL,VOICE:+91-9787922786
-TEL;TYPE=WHATSAPP:+91-9787922786
+TEL;TYPE=CELL,VOICE:+91-9789722792
+TEL;TYPE=WHATSAPP:+91-9789722792
 EMAIL;TYPE=WORK:theeslope@gmail.com
 URL:https://theslope.in
 ADR;TYPE=WORK:;;Chennai;Tamil Nadu;;India
-X-SOCIALPROFILE;TYPE=LinkedIn:https://www.linkedin.com/in/yourprofile
-X-SOCIALPROFILE;TYPE=Instagram:https://www.instagram.com/yourprofile
+X-SOCIALPROFILE;TYPE=Instagram:https://www.instagram.com/_theslope_/
 NOTE:TheSlope — We craft systems, clarity and growth for businesses. Thank you for connecting.
 END:VCARD
