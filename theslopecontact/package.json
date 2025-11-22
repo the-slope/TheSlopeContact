@@ -2,6 +2,7 @@
   "name": "theslopecontact",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://the-slope.github.io/TheSlopeContact/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
