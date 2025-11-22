@@ -1,0 +1,92 @@
+/* Full-page background */
+.landing-wrapper {
+  min-height: 100vh;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #6a11cb, #ff6a00);
+  background-size: cover;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Card container */
+.card {
+  background: rgba(255, 255, 255, 0.15);
+  padding: 40px;
+  width: 90%;
+  max-width: 450px;
+  border-radius: 22px;
+  text-align: center;
+  color: white;
+  backdrop-filter: blur(14px);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
+  animation: fadeIn 1.2s ease;
+}
+
+/* Heading */
+.card h1 {
+  font-size: 42px;
+  font-weight: 800;
+  margin-bottom: 6px;
+  text-shadow: 0px 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Subtext */
+.sub {
+  font-size: 18px;
+  opacity: 0.9;
+}
+
+/* Contact details */
+.details {
+  margin-top: 25px;
+  text-align: left;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+.details a {
+  color: #f3f3f3;
+  text-decoration: underline;
+}
+
+/* Save button */
+.save-btn {
+  display: inline-block;
+  margin-top: 30px;
+  padding: 14px 28px;
+  background: #000;
+  color: white;
+  text-decoration: none;
+  border-radius: 12px;
+  font-weight: 600;
+  transition: 0.3s;
+  box-shadow: 0 5px 14px rgba(0, 0, 0, 0.3);
+}
+
+.save-btn:hover {
+  background: #111;
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.45);
+}
+
+/* Footer text */
+.footer {
+  margin-top: 20px;
+  font-size: 14px;
+  opacity: 0.85;
+}
+
+/* Fade animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(25px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
