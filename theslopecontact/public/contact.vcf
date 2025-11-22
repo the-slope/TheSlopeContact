@@ -1,8 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-N:TheSlope;Company;;;
+N:Company;TheSlope;;;
+FN:TheSlope Company
 ORG:TheSlope
+TITLE:Owners
 TEL;TYPE=CELL,VOICE:+91-9789722792
+TEL;TYPE=WORK,VOICE:+91-9789722792
 TEL;TYPE=WHATSAPP:+91-9789722792
 EMAIL;TYPE=WORK:theeslope@gmail.com
 URL:https://theslope.in

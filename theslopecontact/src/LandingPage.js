@@ -5,7 +5,7 @@ export default function LandingPage() {
   return (
     <div className="landing-wrapper">
       <div className="card">
-        <h1>TheSlope Contact Details</h1>
+        <h1>TheSlope Contact</h1>
 
         <div className="details">
           <p>
